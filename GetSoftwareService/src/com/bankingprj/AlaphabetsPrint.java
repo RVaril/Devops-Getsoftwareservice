@@ -6,6 +6,7 @@ public class AlaphabetsPrint {
 		for (c= 'A'; c <= 'Z'; c++) {
 			System.out.print(c + " ");
 			System.out.println("Hello");
+			System.out.println("Rest of Code");
 		}
 	}
 
